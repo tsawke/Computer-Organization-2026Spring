@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# xsim v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Tue Mar 31 11:10:35 2026
+# Process ID         : 9480
+# Current directory  : D:/workspace/Computer-Organization-2026Spring/Labs/Lab6/lab6_p1_1
+# Command line       : xsim.exe -mode tcl -source {xsim.dir/adderTb_sim/xsim_script.tcl}
+# Log file           : D:/workspace/Computer-Organization-2026Spring/Labs/Lab6/lab6_p1_1/xsim.log
+# Journal file       : D:/workspace/Computer-Organization-2026Spring/Labs/Lab6/lab6_p1_1\xsim.jou
+# Running On         : LAPTOP-ARN7U66S
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) Ultra 9 285H
+# CPU Frequency      : 3686 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 16
+# Host memory        : 33752 MB
+# Swap memory        : 21474 MB
+# Total Virtual      : 55227 MB
+# Available Virtual  : 4185 MB
+#-----------------------------------------------------------
+source xsim.dir/adderTb_sim/xsim_script.tcl

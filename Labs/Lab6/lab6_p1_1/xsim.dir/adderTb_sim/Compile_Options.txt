@@ -1,0 +1,1 @@
+"adderTb" -s "adderTb_sim" -a -R 

@@ -1,0 +1,4 @@
+Running: xsim.dir/adderTb_sim/axsim.exe adderTb_sim -runall
+Design successfully loaded
+Design Loading Memory Usage: 10528 KB (Peak: 10528 KB)
+Design Loading CPU Usage: 15 ms

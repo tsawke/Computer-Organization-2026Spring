@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/Computer-Organization-2026Spring/Labs/Lab6/lab6_p1_1/adder.v" into library work
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/Computer-Organization-2026Spring/Labs/Lab6/lab6_p1_1/adderTb.v" into library work
+INFO: [VRFC 10-311] analyzing module adderTb
